@@ -1,7 +1,7 @@
 GIT
-  remote: git://github.com/opscode/omnibus-software.git
-  revision: f37700aaa3752d98d2e3d38cb6704bd850efc8ba
-  branch: master
+  remote: git://github.com/grosskur/omnibus-software.git
+  revision: ac6e143282ae1a732e36a9ab5658732093cacdbd
+  branch: switch-ftp-to-http
   specs:
     omnibus-software (0.0.1)
 
